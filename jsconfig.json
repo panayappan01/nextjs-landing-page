@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  }
+}
+
+// hereafter dont put ../../src/something
+// rather             /something
